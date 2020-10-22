@@ -1,0 +1,6 @@
+[submodule "SFND_2D_Feature_Tracking"]
+	path = SFND_2D_Feature_Tracking
+	url = https://github.com/AIENGINE/SFND_2D_Feature_Tracking
+[submodule "SFND_Lidar_Obstacle_Detection"]
+	path = SFND_Lidar_Obstacle_Detection
+	url = https://github.com/AIENGINE/SFND_Lidar_Obstacle_Detection
