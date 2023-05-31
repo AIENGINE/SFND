@@ -4,3 +4,13 @@
 [submodule "SFND_Lidar_Obstacle_Detection"]
 	path = SFND_Lidar_Obstacle_Detection
 	url = https://github.com/AIENGINE/SFND_Lidar_Obstacle_Detection
+
+[submodule "SFND_Radar_Target_Generation_and_Detection"]
+	path = SFND_Radar_Target_Generation_and_Detection
+	url = https://github.com/AIENGINE/SFND_Radar_Target_Generation_and_Detection
+[submodule "SFND_Unscented_Kalman_Filter"]
+	path = SFND_Unscented_Kalman_Filter
+	url = https://github.com/AIENGINE/SFND_Unscented_Kalman_Filter
+[submodule "SFND_3D_Object_Tracking"]
+	path = SFND_3D_Object_Tracking
+	url = https://github.com/AIENGINE/SFND_3D_Object_Tracking
